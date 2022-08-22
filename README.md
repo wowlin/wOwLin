@@ -7,6 +7,7 @@
 ## Languages & Tools
 
 ![](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=282C34&style=flat){width=100}
+<a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=282C34&style=flat" height="26" /></a>
 
 ---
 
